@@ -20,5 +20,5 @@ PLEASE NOTE: I’m still working on updating this github to show all I've learne
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jvilleda96/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jvilleda96/configure-ad)
  
