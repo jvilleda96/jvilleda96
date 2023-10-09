@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jvilleda96/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jvilleda96/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jvilleda96/configure-ad)
  
