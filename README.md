@@ -18,5 +18,3 @@ Here are some ideas to get you started:
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jvilleda96/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jvilleda96/configure-ad)
-- <b>RingCentral</b>
- 
