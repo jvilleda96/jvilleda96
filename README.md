@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-<h1>My name is Jose Villeda and I'm an aspiring <a href="https://linkedin.com/](https://www.linkedin.com/in/jvilleda96/">IT Professional</a>☺</h1>
+<h1>My name is Jose Villeda and I'm an aspiring <a href="https://www.linkedin.com/in/jvilleda96/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
